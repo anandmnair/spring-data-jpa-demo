@@ -3,8 +3,6 @@
 
 ### Configuration ###
 
-Spring boot
-
 ```xml
     <!-- Spring boot parent dependency -->
     <parent>
